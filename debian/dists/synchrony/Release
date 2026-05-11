@@ -1,26 +1,26 @@
 Codename: synchrony
-Date: Sun, 10 May 2026 21:46:15 UTC
+Date: Mon, 11 May 2026 14:43:50 UTC
 Architectures: amd64 arm64
 Components: main
 Description: omv-extras plugin repository for OMV 8.x Synchrony
 MD5Sum:
- 4255d9d4d0a734d2960c5608087defea 31780 main/binary-amd64/Packages
- 0e8e24c913a70131afb764493ee2fdd5 10084 main/binary-amd64/Packages.gz
+ 96f1129fde064f3502e3bb5e74b14bb6 31780 main/binary-amd64/Packages
+ 6703e2086bd2e774fe6336f6f08c8abb 10086 main/binary-amd64/Packages.gz
  13eea9161c1f79b0d81296677afee676 100 main/binary-amd64/Release
- c2a186768b69cfe6423657e441d1c404 29989 main/binary-arm64/Packages
- 19cdc3d0dc7b8812132e9cc7ff4a4b12 9565 main/binary-arm64/Packages.gz
+ 319141817f45a89652bb50e6bbbfb56f 29989 main/binary-arm64/Packages
+ 7325056ec7fa5d89959bbfacb361c15c 9568 main/binary-arm64/Packages.gz
  a41bf22cb5943320099d60ba7efbd2cc 100 main/binary-arm64/Release
 SHA1:
- eea9a5f058e76c9daa0a8f50859180380a277f28 31780 main/binary-amd64/Packages
- 3fd5533b961ae8142fd2764c06c3df4a498a95a6 10084 main/binary-amd64/Packages.gz
+ 594b08a0b5751fd72c44cc1d9ed60609ea56494c 31780 main/binary-amd64/Packages
+ a88bbee4f2aac04e372dd47927740e4099739632 10086 main/binary-amd64/Packages.gz
  c249fa72c2baefedbef59622a2eb5fb9c0f6078f 100 main/binary-amd64/Release
- be1df6489ce871388989f152d61a022d0ca202f1 29989 main/binary-arm64/Packages
- ef2a8c6ca9792c9052dc4a4067b6d1e431b5f6a2 9565 main/binary-arm64/Packages.gz
+ fefd461deb71a94816d3c3bdf4372c2552e041fc 29989 main/binary-arm64/Packages
+ 027bf2c089bd086fd1265bf9abbc7895744f1bf3 9568 main/binary-arm64/Packages.gz
  b4f3dd4e82d3e146c94233e4697de22148a6bd54 100 main/binary-arm64/Release
 SHA256:
- 27783fffd2d331fdbdcd8a7e505d7495fdef2ac24da2a8579687d498a56e151f 31780 main/binary-amd64/Packages
- 513e2324ca6ee016d783b00ce8f01785b3e93601a503a2bc83654e2edffdbf61 10084 main/binary-amd64/Packages.gz
+ 4a282f4f5081741a577bd653ef4d37ae95bb550e649f79310a6af51b90eec2bb 31780 main/binary-amd64/Packages
+ 79162c6dadc83927c697a29fdd24efed85e80c3ddda651fb07f2eed5178a42bd 10086 main/binary-amd64/Packages.gz
  c5d4d1d1f7275ff07a01fe8446ef174bbbd57768dd13d775c3b4ab7f64bae8d1 100 main/binary-amd64/Release
- f756a999124ab6615716de1a51defb1b947839493fe1e92612cd70a0165482d8 29989 main/binary-arm64/Packages
- c5bbaeed44823a904f425503e799bcd7160b5fdb13f8257d43b4826d6e449bef 9565 main/binary-arm64/Packages.gz
+ 0f37c147fd1c4e0d545c9202c7f6821fd773c144d0bf2b3c5a1719a53cae3cfa 29989 main/binary-arm64/Packages
+ 0f9c67ed3bc3019a81a2f657a46ef9f6fc59ea5140d5950db1da966ff47e82f2 9568 main/binary-arm64/Packages.gz
  e1ddf7e8c05999cd7eec8a286e92f042733df7b2325c4ac0f41d6af3cb5d6f35 100 main/binary-arm64/Release
