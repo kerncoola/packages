@@ -434,18 +434,18 @@ Description: OMV-Extras.org Package Repositories for OpenMediaVault
 Plugin-Section: utilities
 
 Package: openmediavault-remotemount
-Version: 8.1.4
+Version: 8.1.5
 Architecture: all
 Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
-Installed-Size: 294
+Installed-Size: 300
 Depends: cifs-utils, davfs2, nfs-common, rclone, openmediavault (>= 8)
 Priority: optional
 Section: net
-Filename: pool/main/o/openmediavault-remotemount/openmediavault-remotemount_8.1.4_all.deb
-Size: 25444
-SHA256: 8570ece7ea41daedb7f343822777973f90b1a2b38e1bac7631767eac051f7b52
-SHA1: 694959ff13a3aacb44418d2c487e51d948139015
-MD5sum: a9fb928ec6ab0a38709f1f7da79a82dd
+Filename: pool/main/o/openmediavault-remotemount/openmediavault-remotemount_8.1.5_all.deb
+Size: 27096
+SHA256: 117b059fc8c0847bee08c80ecbc24efef163d186f9086475e296779f7ebff9ff
+SHA1: fdfc3152c21d12a878c9d2552ab7dc7cdcb1765f
+MD5sum: 26f1f102ba3ee10263dad903b48fb300
 Description: Remote mount plugin for OpenMediaVault.
  Makes it possible to mount remote shares.
 Plugin-Section: filesystems
