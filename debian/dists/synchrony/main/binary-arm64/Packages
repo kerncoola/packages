@@ -253,6 +253,34 @@ MD5sum: fc34edef95524f7bc73afa54136b7c99
 Description: hddfancontrol plugin for openmediavault
 Plugin-Section: utilities
 
+Package: openmediavault-imagecheck
+Version: 8.0.0
+Architecture: all
+Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
+Installed-Size: 47
+Depends: openmediavault (>= 8), python3
+Recommends: docker-ce | docker.io
+Homepage: http://omv-extras.org/
+Priority: optional
+Section: net
+Filename: pool/main/o/openmediavault-imagecheck/openmediavault-imagecheck_8.0.0_all.deb
+Size: 9460
+SHA256: 8977025496f256ec31ca888bc312acadf5c513eeed48624e01d9a459f41c0d70
+SHA1: 4ac519b846ea890d8dea49297c8d6c95c690dd79
+MD5sum: 5b553a480b87d63919363af46ac6d3c9
+Description: Docker image update checker
+ Monitor-only checker that reports whether newer Docker images are available
+ for running containers.
+ .
+ For every running container the local registry digest (what was actually
+ pulled) is compared against the digest the registry currently advertises for
+ that same tag, fetched without pulling the image. It never pulls, recreates
+ or changes anything - it only reports.
+ .
+ The result is cached daily by a cron job and exposed through the ImageCheck
+ RPC service, a workbench page and a dashboard widget.
+Plugin-Section: utilities
+
 Package: openmediavault-iperf3
 Version: 8.0
 Architecture: all
